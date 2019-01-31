@@ -1,0 +1,547 @@
+{
+    "student": {
+        "name": "Kevin",
+        "profilePic": "A base64 string of image or a website address",
+        "email": "Kevin@purdue.edu",
+        "classList": {
+            "Spring 2019": {
+                "startDate": "2019-01-04",
+                "endDate": "2019-05-04",
+                "schedule": {
+                    "Monday": [{
+                        "title": "MA 261",
+                        "startTime": "08:30",
+                        "endTime": "09:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }, {
+                            "name": "Hailey Steinfeld",
+                            "email": "haste@gmail.com"
+                        }, {
+                            "name": "Samuel Wagstaff",
+                            "email": "ssw@gmail.com"
+                        }]
+                    }, {
+                        "title": "MA 262",
+                        "startTime": "09:30",
+                        "endTime": "10:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 251",
+                        "startTime": "10:30",
+                        "endTime": "11:20",
+                        "latitude": 40.426467,
+                        "longitude": -86.915708,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Tuesday": [{
+                        "title": "CS 381",
+                        "startTime": "14:30",
+                        "endTime": "15:45",
+                        "latitude": 40.34,
+                        "longitude": -84.56,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "MA 262",
+                        "startTime": "16:30",
+                        "endTime": "17:20",
+                        "latitude": 40.38,
+                        "longitude": -87.65,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 251",
+                        "startTime": "12:30",
+                        "endTime": "01:20",
+                        "latitude": 32.76,
+                        "longitude": -23.45,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Wednesday": [{
+                        "title": "MA 261",
+                        "startTime": "08:30",
+                        "endTime": "09:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }, {
+                            "name": "Hailey Steinfeld",
+                            "email": "haste@gmail.com"
+                        }, {
+                            "name": "Samuel Wagstaff",
+                            "email": "ssw@gmail.com"
+                        }]
+                    }, {
+                        "title": "MA 262",
+                        "startTime": "09:30",
+                        "endTime": "10:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 251",
+                        "startTime": "10:30",
+                        "endTime": "11:20",
+                        "latitude": 40.426467,
+                        "longitude": -86.915708,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Thursday": [{
+                        "title": "CS 381",
+                        "startTime": "14:30",
+                        "endTime": "15:45",
+                        "latitude": 40.34,
+                        "longitude": -84.56,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "MA 262",
+                        "startTime": "16:30",
+                        "endTime": "17:20",
+                        "latitude": 40.38,
+                        "longitude": -87.65,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 251",
+                        "startTime": "12:30",
+                        "endTime": "01:20",
+                        "latitude": 32.76,
+                        "longitude": -23.45,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Friday": [{
+                        "title": "MA 261",
+                        "startTime": "08:30",
+                        "endTime": "09:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }, {
+                            "name": "Hailey Steinfeld",
+                            "email": "haste@gmail.com"
+                        }, {
+                            "name": "Samuel Wagstaff",
+                            "email": "ssw@gmail.com"
+                        }]
+                    }, {
+                        "title": "MA 262",
+                        "startTime": "09:30",
+                        "endTime": "10:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 251",
+                        "startTime": "10:30",
+                        "endTime": "11:20",
+                        "latitude": 40.426467,
+                        "longitude": -86.915708,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }]
+                }
+            },
+            "Fall 2018": {
+                "startDate": "2018-09-04",
+                "endDate": "2018-12-04",
+                "schedule": {
+                    "Monday": [{
+                        "title": "MA 161",
+                        "startTime": "08:30",
+                        "endTime": "09:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }, {
+                            "name": "Hailey Steinfeld",
+                            "email": "haste@gmail.com"
+                        }, {
+                            "name": "Samuel Wagstaff",
+                            "email": "ssw@gmail.com"
+                        }]
+                    }, {
+                        "title": "PSYC 120",
+                        "startTime": "09:30",
+                        "endTime": "10:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 182",
+                        "startTime": "10:30",
+                        "endTime": "11:20",
+                        "latitude": 40.426467,
+                        "longitude": -86.915708,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Tuesday": [{
+                        "title": "CS 180",
+                        "startTime": "14:30",
+                        "endTime": "15:45",
+                        "latitude": 40.34,
+                        "longitude": -84.56,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "MA 162",
+                        "startTime": "16:30",
+                        "endTime": "17:20",
+                        "latitude": 40.38,
+                        "longitude": -87.65,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "PHYS 172",
+                        "startTime": "12:30",
+                        "endTime": "01:20",
+                        "latitude": 32.76,
+                        "longitude": -23.45,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Wednesday": [{
+                        "title": "MA 161",
+                        "startTime": "08:30",
+                        "endTime": "09:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }, {
+                            "name": "Hailey Steinfeld",
+                            "email": "haste@gmail.com"
+                        }, {
+                            "name": "Samuel Wagstaff",
+                            "email": "ssw@gmail.com"
+                        }]
+                    }, {
+                        "title": "PSYC 120",
+                        "startTime": "09:30",
+                        "endTime": "10:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 182",
+                        "startTime": "10:30",
+                        "endTime": "11:20",
+                        "latitude": 40.426467,
+                        "longitude": -86.915708,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Thursday": [{
+                        "title": "CS 180",
+                        "startTime": "14:30",
+                        "endTime": "15:45",
+                        "latitude": 40.34,
+                        "longitude": -84.56,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "MA 162",
+                        "startTime": "16:30",
+                        "endTime": "17:20",
+                        "latitude": 40.38,
+                        "longitude": -87.65,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "PHYS 172",
+                        "startTime": "12:30",
+                        "endTime": "01:20",
+                        "latitude": 32.76,
+                        "longitude": -23.45,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }],
+                    "Friday": [{
+                        "title": "MA 161",
+                        "startTime": "08:30",
+                        "endTime": "09:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }, {
+                            "name": "Hailey Steinfeld",
+                            "email": "haste@gmail.com"
+                        }, {
+                            "name": "Samuel Wagstaff",
+                            "email": "ssw@gmail.com"
+                        }]
+                    }, {
+                        "title": "PSYC 120",
+                        "startTime": "09:30",
+                        "endTime": "10:20",
+                        "latitude": 40.428863,
+                        "longitude": -86.91193,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }, {
+                        "title": "CS 182",
+                        "startTime": "10:30",
+                        "endTime": "11:20",
+                        "latitude": 40.426467,
+                        "longitude": -86.915708,
+                        "students": [{
+                            "name": "Jake Johnson",
+                            "email": "jjons@gmail.com"
+                        }, {
+                            "name": "Alison Schwartz",
+                            "email": "alischwa@gmail.com"
+                        }, {
+                            "name": "Nikhil Kumar",
+                            "email": "nikhilfaips@gmail.com"
+                        }]
+                    }]
+                }
+            }
+        }
+    }
+}
